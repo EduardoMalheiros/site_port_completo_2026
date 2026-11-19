@@ -1,0 +1,204 @@
+{
+  "consultedAt": "2026-11-18",
+  "sources": [
+    {
+      "id": "abvaq-ranking-2026",
+      "name": "Ranking Nacional ABVAQ 2026",
+      "publisher": "Associação Brasileira de Vaquejada (ABVAQ)",
+      "url": "https://ranking2026.abvaq.com.br/",
+      "publishedAt": "Página dinâmica; atualização exibida em 18/11/2026 às 15:06:32",
+      "type": "Classificação oficial",
+      "usedFor": "Recorte por categoria e pontuação exibida no ranking de 2026.",
+      "limitation": "Dados capturados em uma consulta pública; não é uma API nem atualização automática. A ABVAQ informou acesso exclusivo para sócios em notícia publicada em 10/07/2026."
+    },
+    {
+      "id": "abvaq-ranking-news",
+      "name": "Ranking Nacional ABVAQ 2026 ganha nova plataforma e amplia experiência para os competidores",
+      "publisher": "ABVAQ",
+      "url": "https://abvaq.com.br/noticias/ranking-nacional-abvaq-2026-ganha-nova-plataforma-e-amplia-experiencia-para-os-competidores",
+      "publishedAt": "10/07/2026",
+      "type": "Comunicado institucional",
+      "usedFor": "Contexto e condições de acesso ao ranking nacional."
+    },
+    {
+      "id": "abvaq-organizers-2026",
+      "name": "ABVAQ reuniu organizadores de Campeonatos e Circuitos em busca de melhorias para o esporte",
+      "publisher": "ABVAQ",
+      "url": "https://abvaq.com.br/noticias/abvaq-reuniu--nesta-segunda-feira--organizadores-de-campeonatos-e-circuitos-em-busca-de-melhorias-para-o-esporte",
+      "publishedAt": "05/10/2026",
+      "type": "Comunicado institucional",
+      "usedFor": "Nomes de campeonatos e circuitos citados pela ABVAQ."
+    },
+    {
+      "id": "abvaq-abqm-judges",
+      "name": "ABVAQ e ABQM fortalecem parceria para qualificação e ampliação do quadro de jurados da Vaquejada",
+      "publisher": "ABVAQ",
+      "url": "https://abvaq.com.br/noticias/abvaq-e-abqm-fortalecem-parceria-para-qualificacao-e-ampliacao-do-quadro-de-jurados-da-vaquejada",
+      "publishedAt": "10/06/2026",
+      "type": "Comunicado institucional",
+      "usedFor": "Exemplo documentado de iniciativas de qualificação e organização do esporte."
+    },
+    {
+      "id": "abvaq-tourism-2026",
+      "name": "ABVAQ destaca força da vaquejada durante evento de turismo no Maranhão",
+      "publisher": "ABVAQ",
+      "url": "https://abvaq.com.br/noticias/abvaq-destaca-forca-da-vaquejada-durante-evento-de-turismo-no-maranhao",
+      "publishedAt": "13/05/2026",
+      "type": "Comunicado institucional",
+      "usedFor": "Posicionamento da ABVAQ sobre as dimensões culturais, turísticas e econômicas da vaquejada.",
+      "limitation": "É uma publicação da própria associação, não uma mensuração econômica independente."
+    },
+    {
+      "id": "abvaq-documents",
+      "name": "Documentos Oficiais",
+      "publisher": "ABVAQ",
+      "url": "https://abvaq.com.br/conteudos/documentos-oficiais",
+      "publishedAt": "Página de documentos; datas variam por documento",
+      "type": "Repositório institucional",
+      "usedFor": "Consulta a regulamentos e documentos vigentes."
+    },
+    {
+      "id": "cnv-etapa-15",
+      "name": "Classificação por Etapa — 15ª etapa de 2026, Parque Fernando Lucena",
+      "publisher": "Circuito Nacional de Vaquejada (CNV)",
+      "url": "https://cnvaquejada.com.br/classificacao-etapa/2026/15",
+      "publishedAt": "Data de publicação não exibida na página consultada",
+      "type": "Resultado oficial da etapa",
+      "usedFor": "Data, local, premiação divulgada e classificação da etapa. Cada categoria tem uma subpágina oficial própria, ligada nos resultados da etapa."
+    },
+    {
+      "id": "portal-maria-luz-2026",
+      "name": "Vaquejada Parque Maria da Luz — Etapa Portal 2026",
+      "publisher": "Portal Vaquejada",
+      "url": "https://www.portalvaquejada.com.br/vaquejada/vaquejada-parque-maria-da-luz-etapa-portal-2026",
+      "publishedAt": "Página de evento; data de publicação não exibida",
+      "type": "Página oficial de etapa e resultados",
+      "usedFor": "Datas, local, premiação e resultados listados nas categorias Profissional, Intermediário e Amador."
+    },
+    {
+      "id": "portal-haras-ad-2026",
+      "name": "Vaquejada Parque Haras AD — Campeão dos Campeões 2026 — Etapa Portal 2027",
+      "publisher": "Portal Vaquejada",
+      "url": "https://www.portalvaquejada.com.br/vaquejada/vaquejada-parque-haras-ad-campeao-dos-campeoes-2026-etapa-portal-2027",
+      "publishedAt": "Página de evento; data de publicação não exibida",
+      "type": "Calendário oficial",
+      "usedFor": "Evento, datas, local e premiação anunciada para dezembro de 2026.",
+      "limitation": "Agenda futura conforme consulta de 18/11/2026; não constitui confirmação de realização ou resultado."
+    },
+    {
+      "id": "portal-jurubeba-hall-fama",
+      "name": "Jurubeba entra para a história como o vaqueiro Aspirante mais bem pontuado do Portal",
+      "publisher": "Portal Vaquejada",
+      "url": "https://www.portalvaquejada.com.br/noticia/jurubeba-entra-para-a-historia-como-o-vaqueiro-aspirante-mais-bem-pontuado-do-portal",
+      "publishedAt": "A página indicava “há 4 semanas”; data absoluta não exibida na consulta",
+      "type": "Reportagem esportiva",
+      "usedFor": "Pontuação do Hall da Fama Aspirante de Jurubeba e pontuação de Romarinho Show.",
+      "limitation": "Números atribuídos ao Hall da Fama do campeonato Portal, não a um ranking nacional unificado."
+    },
+    {
+      "id": "portal-hall-da-fama",
+      "name": "Hall da Fama — Portal Vaquejada",
+      "publisher": "Portal Vaquejada",
+      "url": "https://halldafama.portalvaquejada.com.br/",
+      "publishedAt": "Página institucional; data de publicação não exibida",
+      "type": "Arquivo histórico de um campeonato",
+      "usedFor": "Identificação do Hall da Fama e das categorias de vaqueiros, esteireiros, cavalos, equipes e criadores.",
+      "limitation": "A página descreve um ranking histórico do Portal desde 2005, mas os registros detalhados são carregados dinamicamente e não estavam disponíveis na consulta. Não foi usada como fonte de uma lista histórica completa."
+    },
+    {
+      "id": "portal-poker-moon",
+      "name": "Poker Moon, o Cavalo das Cartas, assume a liderança do Hall da Fama Portal Vaquejada",
+      "publisher": "Portal Vaquejada",
+      "url": "https://www.portalvaquejada.com.br/noticia/poker-moon-o-cavalo-das-cartas-assume-a-lideranca-do-hall-da-fama-portal-vaquejada",
+      "publishedAt": "A página indicava “há 4 semanas”; data absoluta não exibida na consulta",
+      "type": "Reportagem esportiva",
+      "usedFor": "Pedigree, data de nascimento, proprietário e pontuações divulgadas de Poker Moon e Holland Jeck.",
+      "limitation": "Os pontos são do Hall da Fama Portal no momento da reportagem; não equivalem a títulos ou pontuação ABQM."
+    },
+    {
+      "id": "history-study-2023",
+      "name": "Educação Ambiental na perspectiva evolutiva e histórica da vaquejada",
+      "publisher": "Luiz Antonio Costa de Santana e Carlos Alberto Batista dos Santos; Revista Brasileira de Educação Ambiental",
+      "url": "https://doi.org/10.34024/revbea.2023.v18.14300",
+      "publishedAt": "2023",
+      "type": "Artigo acadêmico revisado por pares",
+      "usedFor": "Contexto histórico, social, cultural, econômico e jurídico da vaquejada.",
+      "limitation": "O artigo apresenta uma revisão documental e bibliográfica; a origem não é reduzida a uma data única consensual."
+    },
+    {
+      "id": "law-13364",
+      "name": "Lei nº 13.364, de 29 de novembro de 2016",
+      "publisher": "Presidência da República — Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13364.htm",
+      "publishedAt": "29/11/2016",
+      "type": "Legislação federal",
+      "usedFor": "Reconhecimento da vaquejada como manifestação cultural nacional."
+    },
+    {
+      "id": "ec-96",
+      "name": "Emenda Constitucional nº 96, de 6 de junho de 2017",
+      "publisher": "Presidência da República — Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc96.htm",
+      "publishedAt": "06/06/2017",
+      "type": "Legislação constitucional",
+      "usedFor": "Art. 225, § 7º da Constituição, sobre práticas desportivas que utilizam animais e proteção do bem-estar."
+    },
+    {
+      "id": "law-13873",
+      "name": "Lei nº 13.873, de 17 de setembro de 2019",
+      "publisher": "Presidência da República — Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13873.htm",
+      "publishedAt": "17/09/2019",
+      "type": "Legislação federal",
+      "usedFor": "Alterações na Lei nº 13.364/2016 e regras relacionadas à prática desportiva."
+    },
+    {
+      "id": "photo-piaui",
+      "name": "Vaquejada no interior do Piauí",
+      "publisher": "Fotografia de Bunker2023 · Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Vaquejada_no_interior_do_Piau%C3%AD.jpg",
+      "publishedAt": "Fotografia registrada em 31/07/2022; carregada no Commons em 20/02/2023",
+      "type": "Fotografia — CC BY-SA 4.0",
+      "usedFor": "Imagem de vaquejada em Bonfim do Piauí, usada no banner, em capas e na página História. Crédito: Bunker2023.",
+      "limitation": "Imagem exibida com recorte responsivo. A licença exige atribuição e compartilhamento pela mesma licença de adaptações.",
+      "licenseName": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "photo-derrubada",
+      "name": "Prática de vaquejada — derrubada do boi na faixa",
+      "publisher": "Fotografia de Negrosoousa · Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Pratica_de_vaquejada_-_derrubada_do_boi_na_faixa_-_Negrosoousa.jpg",
+      "publishedAt": "Fotografia registrada em 14/06/2025; carregada no Commons em 03/03/2026",
+      "type": "Fotografia — CC BY-SA 4.0",
+      "usedFor": "Imagem de ação na pista, usada na chamada de competições e na capa de Competições. Crédito: Negrosoousa.",
+      "limitation": "Imagem exibida com recorte responsivo. A licença exige atribuição e compartilhamento pela mesma licença de adaptações.",
+      "licenseName": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "photo-maniva",
+      "name": "Cavalo Nordestino Maniva",
+      "publisher": "Fotografia de Euzeli Cipriano dos Santos Junior · Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Cavalo_Nordestino_Maniva.jpg",
+      "publishedAt": "Fotografia registrada em 16/11/2020",
+      "type": "Fotografia — CC BY-SA 4.0",
+      "usedFor": "Imagem creditada na faixa de destaque e na capa de Cavalos; não é associada aos animais listados nos perfis.",
+      "limitation": "O arquivo identifica o cavalo como Maniva, mas não é usado para afirmar raça, registro ou conquistas além da descrição do próprio arquivo.",
+      "licenseName": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "photo-parque",
+      "name": "Parque de Vaquejada Benjamin Souza Filho, Paratinga",
+      "publisher": "Fotografia de Fronteira · Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Parque_de_Vaquejada_Benjamin_Souza_Filho_%2816%29,_Paratinga,_janeiro_de_2017.jpg",
+      "publishedAt": "Fotografia registrada em 17/01/2017",
+      "type": "Fotografia — CC BY-SA 4.0",
+      "usedFor": "Vista do parque em Paratinga, usada na chamada de ranking e na capa de História. Crédito: Fronteira.",
+      "limitation": "A imagem documenta o parque em 2017; não representa a estrutura atual nem um evento competitivo específico.",
+      "licenseName": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "updatedAt": "2026-11-18",
+  "sourceNote": "Calendário e resultados registrados conforme as páginas oficiais consultadas em 18/11/2026. Não há integração automática.",
+  "competitions": [
+    {
+      "id": "cnv",
+      "name": "Circuito Nacional de Vaquejada (CNV)",
+      "organizer": "CNV; razão social da organização não informada na página consultada",
+      "note": "Mantido com o nome usado pelo próprio portal. Não se presume equivalência com outras competições de nome semelhante.",
+      "sourceUrl": "https://cnvaquejada.com.br/classificacao-etapa/2026/15/profissional",
+      "sourceId": "cnv-etapa-15",
+      "events": [
+        {
+          "season": 2026,
+          "title": "15ª etapa — Parque Fernando Lucena",
+          "date": "27/10/2026 a 01/11/2026",
+          "location": "Caruaru — PE",
+          "prize": "R$ 600.000,00",
+          "status": "Resultados publicados",
+          "categories": [
+            { "name": "Profissional", "winners": ["Paraibinha"], "sourceUrl": "https://cnvaquejada.com.br/classificacao-etapa/2026/15/profissional" },
+            { "name": "Amador", "winners": ["Danilo Lucena"], "sourceUrl": "https://cnvaquejada.com.br/classificacao-etapa/2026/15/amador" },
+            { "name": "Intermediário", "winners": ["Alysson Galdino", "João Lucas"], "sourceUrl": "https://cnvaquejada.com.br/classificacao-etapa/2026/15/intermediario" },
+            { "name": "Aspirante", "winners": ["Guilherme Cavalcanti", "Erik Santos"], "sourceUrl": "https://cnvaquejada.com.br/classificacao-etapa/2026/15/aspirante" },
+            { "name": "Master", "winners": ["Matheus Liberato"], "sourceUrl": "https://cnvaquejada.com.br/classificacao-etapa/2026/15/master" },
+            { "name": "Feminino", "winners": ["Cariline Silva"], "sourceUrl": "https://cnvaquejada.com.br/classificacao-etapa/2026/15/feminino" },
+            { "name": "Jovem", "winners": ["Henry Bezerra"], "sourceUrl": "https://cnvaquejada.com.br/classificacao-etapa/2026/15/jovem" },
+            { "name": "Derby", "winners": ["Jeck Rojo RC / Vitor Matheus"], "sourceUrl": "https://cnvaquejada.com.br/classificacao-etapa/2026/15/derby", "note": "A tabela da categoria identifica Cavalo / Vaqueiro, nesta ordem." }
+          ],
+          "resultNote": "Nomes na primeira posição de cada tabela oficial; empates em primeiro lugar são preservados. Na categoria Derby, a tabela identifica Cavalo / Vaqueiro, nessa ordem.",
+          "sourceUrl": "https://cnvaquejada.com.br/classificacao-etapa/2026/15/profissional",
+          "sourceId": "cnv-etapa-15"
+        }
+      ]
+    },
+    {
+      "id": "portal",
+      "name": "Campeonato Portal Vaquejada",
+      "organizer": "Portal Vaquejada / organização indicada na página de cada etapa",
+      "sourceUrl": "https://www.portalvaquejada.com.br/vaquejada/vaquejada-parque-maria-da-luz-etapa-portal-2026",
+      "sourceId": "portal-maria-luz-2026",
+      "events": [
+        {
+          "season": 2026,
+          "title": "Etapa Portal — Parque Maria da Luz",
+          "date": "13/10/2026 a 18/10/2026",
+          "location": "Campina Grande — PB",
+          "prize": "R$ 350.000,00",
+          "status": "Resultados publicados",
+          "categories": [
+            { "name": "Profissional", "winners": ["Renato Tetê / Neto Galdino"], "horses": ["Major Apollo Only", "Jump Júnior"] },
+            { "name": "Intermediário", "winners": ["Neto Ramalho / Danilo de Dorgivan"], "horses": ["Lady Love Diego LSS"] },
+            { "name": "Amador", "winners": ["Pêpa / Augusto Cajazeira"], "horses": ["Camaro Sands"] }
+          ],
+          "resultNote": "Primeiras colocações conforme as tabelas publicadas na página oficial. As demais categorias e classificações não foram reproduzidas neste resumo.",
+          "sourceUrl": "https://www.portalvaquejada.com.br/vaquejada/vaquejada-parque-maria-da-luz-etapa-portal-2026",
+          "sourceId": "portal-maria-luz-2026"
+        },
+        {
+          "season": 2026,
+          "title": "Parque Haras AD — Campeão dos Campeões 2026, Etapa Portal 2027",
+          "date": "01/12/2026 a 06/12/2026",
+          "location": "Haras AD, Lagarto — SE",
+          "prize": "R$ 400.000,00",
+          "status": "Programada na consulta de 18/11/2026",
+          "categories": [],
+          "sourceUrl": "https://www.portalvaquejada.com.br/vaquejada/vaquejada-parque-haras-ad-campeao-dos-campeoes-2026-etapa-portal-2027",
+          "sourceId": "portal-haras-ad-2026"
+        }
+      ]
+    }
+  ],
+  "circuitsMentionedByABVAQ": [
+    "Campeonato Portal Vaquejada",
+    "Circuito BYD de Vaquejada",
+    "Circuito ACQM-PE"
+  ],
+  "circuitsSourceUrl": "https://abvaq.com.br/noticias/abvaq-reuniu--nesta-segunda-feira--organizadores-de-campeonatos-e-circuitos-em-busca-de-melhorias-para-o-esporte",
+  "circuitsSourceId": "abvaq-organizers-2026"
+}

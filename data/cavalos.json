@@ -1,0 +1,71 @@
+{
+  "updatedAt": "2026-11-18",
+  "editorialNote": "Os perfis registram somente informações encontradas nas fontes listadas. Raça, registro ABQM ou pedigree não mencionados pela fonte permanecem indisponíveis.",
+  "horses": [
+    {
+      "name": "Poker Moon",
+      "breed": null,
+      "registration": null,
+      "pedigree": "Moon Feature Bug (pai) × Exotic To Fly (mãe), conforme reportagem do Portal Vaquejada.",
+      "birth": "26/08/2010",
+      "owner": "Sony Nunes; representando o Grupo Corbã, de Iguatu — CE, segundo a reportagem.",
+      "achievement": "1.470 pontos no Hall da Fama Portal após a etapa do Parque Maria da Luz, à frente de Holland Jeck (1.465), conforme a reportagem consultada.",
+      "photoUrl": null,
+      "photoNote": "A reportagem de origem contém fotografias, mas não foi localizada licença explícita para republicação. Consulte a fonte original.",
+      "sourceUrl": "https://www.portalvaquejada.com.br/noticia/poker-moon-o-cavalo-das-cartas-assume-a-lideranca-do-hall-da-fama-portal-vaquejada",
+      "sourceId": "portal-poker-moon"
+    },
+    {
+      "name": "Holland Jeck",
+      "breed": null,
+      "registration": null,
+      "pedigree": null,
+      "birth": null,
+      "owner": null,
+      "achievement": "A reportagem do Portal o identifica como líder anterior do Hall da Fama, com 1.465 pontos, antes da pontuação publicada para Poker Moon.",
+      "photoUrl": null,
+      "photoNote": "Não foi localizada fotografia com licença explícita de republicação nem documentação genealógica suficiente nas fontes consultadas.",
+      "sourceUrl": "https://www.portalvaquejada.com.br/noticia/poker-moon-o-cavalo-das-cartas-assume-a-lideranca-do-hall-da-fama-portal-vaquejada",
+      "sourceId": "portal-poker-moon"
+    },
+    {
+      "name": "Romarinho Show",
+      "breed": null,
+      "registration": null,
+      "pedigree": null,
+      "birth": null,
+      "owner": null,
+      "achievement": "A reportagem do Portal atribui 1.030 pontos no Hall da Fama ao cavalo, parceiro de pista de Jurubeba, e informa que o animal já havia falecido à época da publicação.",
+      "photoUrl": null,
+      "photoNote": "A reportagem de origem contém fotografias, mas não foi localizada licença explícita para republicação.",
+      "sourceUrl": "https://www.portalvaquejada.com.br/noticia/jurubeba-entra-para-a-historia-como-o-vaqueiro-aspirante-mais-bem-pontuado-do-portal",
+      "sourceId": "portal-jurubeba-hall-fama"
+    },
+    {
+      "name": "Major Apollo Only",
+      "breed": null,
+      "registration": null,
+      "pedigree": null,
+      "birth": null,
+      "owner": null,
+      "achievement": "Nome listado na inscrição vencedora da categoria Profissional da etapa Portal no Parque Maria da Luz em 2026, montado por Renato Tetê.",
+      "photoUrl": null,
+      "photoNote": "Não foi localizada fotografia com licença explícita de republicação ou ficha genealógica vinculada à fonte do resultado.",
+      "sourceUrl": "https://www.portalvaquejada.com.br/vaquejada/vaquejada-parque-maria-da-luz-etapa-portal-2026",
+      "sourceId": "portal-maria-luz-2026"
+    },
+    {
+      "name": "Camaro Sands",
+      "breed": null,
+      "registration": null,
+      "pedigree": null,
+      "birth": null,
+      "owner": null,
+      "achievement": "Nome listado na inscrição vencedora da categoria Amador da etapa Portal no Parque Maria da Luz em 2026, montado por Pêpa.",
+      "photoUrl": null,
+      "photoNote": "Não foi localizada fotografia com licença explícita de republicação ou ficha genealógica vinculada à fonte do resultado.",
+      "sourceUrl": "https://www.portalvaquejada.com.br/vaquejada/vaquejada-parque-maria-da-luz-etapa-portal-2026",
+      "sourceId": "portal-maria-luz-2026"
+    }
+  ]
+}

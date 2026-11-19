@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="theme-color" content="#181714">
+  <meta name="description" content="Calendário, etapas e resultados publicados por organizadores de vaquejada, separados por competição e temporada.">
+  <title>Competições — Portal da Vaquejada</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Oswald:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css"><script src="js/script.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#conteudo">Pular para o conteúdo</a>
+  <header class="site-header"><div class="header-inner"><a class="brand" href="index.html" aria-label="Portal da Vaquejada, início"><span class="brand-mark" aria-hidden="true">PV</span><span class="brand-copy"><strong>PORTAL DA</strong><b>VAQUEJADA</b></span></a><button class="menu-toggle" type="button" aria-expanded="false" aria-controls="primary-nav" aria-label="Abrir menu"><span></span><span></span><span></span></button><nav class="primary-nav" id="primary-nav" aria-label="Navegação principal"><a href="index.html">Início</a><a href="historia.html">História</a><a class="active" aria-current="page" href="competicoes.html">Competições</a><a href="ranking.html">Ranking</a><a href="campeoes.html">Campeões</a><a href="cavalos.html">Cavalos</a><a href="fontes.html">Fontes</a></nav></div></header>
+  <main id="conteudo">
+    <section class="page-hero competition-hero"><div class="page-hero-image"></div><div class="page-hero-shade"></div><div class="wrap page-hero-content"><span class="eyebrow eyebrow-light">O esporte · Capítulo 02</span><h1>PAIXÃO QUE<br><em>VIRA COMPETIÇÃO.</em></h1><p>Etapas, parques e classificações, sempre identificados por organizador e temporada.</p></div><a class="photo-credit hero-photo-credit" href="fontes.html#source-section">Foto: Negrosoousa · CC BY-SA 4.0 <span aria-hidden="true">↗</span></a></section>
+    <section class="section-pad"><div class="wrap"><div class="section-heading"><div><span class="eyebrow">Como funciona</span><h2>Um circuito de<br><em>grandes encontros.</em></h2></div><p class="heading-copy">Categorias, formato, critérios de pontuação e premiação dependem do regulamento publicado por cada organização. Os dados abaixo não combinam resultados de campeonatos distintos.</p></div>
+      <div class="steps-grid"><article class="step-card"><span>01</span><h3>Inscrição</h3><p>Consulte prazos, categorias, documentos e condições diretamente com o evento.</p></article><article class="step-card"><span>02</span><h3>Regulamento</h3><p>Leia as regras específicas da etapa, incluindo critérios, segurança e bem-estar animal.</p></article><article class="step-card"><span>03</span><h3>Apuração</h3><p>Resultados válidos devem ser publicados pelo organizador responsável.</p></article></div>
+    </div></section>
+    <section class="dark-section section-pad"><div class="wrap">
+      <div class="section-heading heading-light"><div><span class="eyebrow eyebrow-light">Calendário & resultados</span><h2>Etapas <em>documentadas.</em></h2></div><span class="status-pill"><i></i> CAPTURA · 18 NOV 2026</span></div>
+      <p class="dark-intro">O filtro organiza somente os eventos deste arquivo. Agenda e resultados são snapshots de páginas oficiais consultadas em 18/11/2026, não uma integração automática.</p>
+      <div class="filters event-filters">
+        <label for="competition-season">Temporada<select id="competition-season"><option value="all">Todas</option></select></label>
+        <label for="competition-filter">Competição<select id="competition-filter"><option value="all">Todas</option></select></label>
+      </div>
+      <div id="competition-status" class="data-status" role="status" aria-live="polite">Carregando calendário e resultados…</div>
+      <div id="competition-events" class="event-grid"></div>
+      <p class="data-disclaimer">O evento de dezembro estava anunciado para o futuro na data da consulta; sua realização e seus resultados não estão confirmados. Premiações reproduzem o valor publicado, não uma confirmação de pagamento.</p>
+    </div></section>
+    <section class="section-pad"><div class="wrap circuit-context"><div><span class="eyebrow">Organizadores e circuitos</span><h2>Nomes sem<br><em>misturar tabelas.</em></h2><p class="muted-copy">Em comunicado de 05/10/2026, a ABVAQ citou representantes do Campeonato Portal Vaquejada, Circuito BYD de Vaquejada e Circuito ACQM-PE. O CNV é apresentado aqui separadamente pelo nome usado em seu próprio portal; não presumimos equivalência entre campeonatos.</p><a class="text-link" href="https://abvaq.com.br/noticias/abvaq-reuniu--nesta-segunda-feira--organizadores-de-campeonatos-e-circuitos-em-busca-de-melhorias-para-o-esporte" target="_blank" rel="noopener noreferrer">Ler comunicado da ABVAQ <span aria-hidden="true">↗</span></a></div>
+      <div class="circuit-list"><h3>Competições citadas pela ABVAQ</h3><ul><li>Campeonato Portal Vaquejada</li><li>Circuito BYD de Vaquejada</li><li>Circuito ACQM-PE</li></ul><p>O comunicado não é um calendário completo nem especifica todas as etapas.</p><a href="https://cnvaquejada.com.br/" target="_blank" rel="noopener noreferrer">Portal do Circuito Nacional de Vaquejada (CNV) ↗</a></div>
+    </div></section>
+  </main>
+  <footer class="site-footer"><div class="wrap footer-main"><a class="brand brand-footer" href="index.html"><span class="brand-mark" aria-hidden="true">PV</span><span class="brand-copy"><strong>PORTAL DA</strong><b>VAQUEJADA</b></span></a><p>Tradição, esporte e cultura<br>com raízes no Nordeste.</p><div class="footer-nav"><span>EXPLORE</span><a href="historia.html">História</a><a href="competicoes.html">Competições</a><a href="ranking.html">Ranking</a></div><div class="footer-nav"><span>CONHEÇA</span><a href="campeoes.html">Campeões</a><a href="cavalos.html">Cavalos</a><a href="fontes.html">Fontes e critérios</a><a href="https://www.instagram.com/portalvaquejada" target="_blank" rel="noopener noreferrer">Instagram oficial ↗</a><a href="https://www.youtube.com/c/PortalVaquejadaOficial" target="_blank" rel="noopener noreferrer">YouTube oficial ↗</a></div></div><div class="wrap footer-bottom"><span>© 2026 Portal da Vaquejada · Projeto informativo</span><span>Dados consultados em 18/11/2026; sem atualização ao vivo.</span></div></footer>
+  <button class="back-to-top" type="button" aria-label="Voltar ao topo">↑</button>
+</body>
+</html>

@@ -1,0 +1,42 @@
+{
+  "updatedAt": "2026-11-18",
+  "editorialNote": "Seleção não exaustiva de resultados e registros documentados. Não é uma classificação dos maiores campeões de toda a história.",
+  "profiles": [
+    {
+      "name": "Jurubeba",
+      "fullName": null,
+      "category": "Aspirante",
+      "competition": "Hall da Fama Portal Vaquejada",
+      "achievement": "590 pontos e liderança histórica da categoria Aspirante no Hall da Fama Portal, superando Júlio Neto (585), conforme a reportagem consultada.",
+      "context": "A reportagem atribui os pontos à trajetória no campeonato Portal e relata sua ligação desde a infância com o Parque Maria da Luz. Nome completo e temporada acumulada não são informados na página.",
+      "photoUrl": null,
+      "photoNote": "A publicação de origem contém fotografias, mas não foi localizada licença explícita para republicação. Consulte a reportagem original.",
+      "sourceUrl": "https://www.portalvaquejada.com.br/noticia/jurubeba-entra-para-a-historia-como-o-vaqueiro-aspirante-mais-bem-pontuado-do-portal",
+      "sourceId": "portal-jurubeba-hall-fama"
+    },
+    {
+      "name": "Paraibinha",
+      "fullName": null,
+      "category": "Profissional",
+      "competition": "Circuito Nacional de Vaquejada (CNV), 15ª etapa de 2026",
+      "achievement": "1º colocado na categoria Profissional da etapa no Parque Fernando Lucena, em Caruaru — PE.",
+      "context": "A página oficial lista o competidor como primeiro colocado da categoria. O nome civil completo não é informado no resultado consultado.",
+      "photoUrl": null,
+      "photoNote": "A página de resultados usa uma imagem genérica para mais de um participante; não foi localizada licença explícita para republicação.",
+      "sourceUrl": "https://cnvaquejada.com.br/classificacao-etapa/2026/15/profissional",
+      "sourceId": "cnv-etapa-15"
+    },
+    {
+      "name": "Renato Tetê",
+      "fullName": null,
+      "category": "Profissional",
+      "competition": "Campeonato Portal Vaquejada, etapa Parque Maria da Luz 2026",
+      "achievement": "1º lugar na categoria Profissional, montando Major Apollo Only; a tabela identifica Neto Galdino montando Jump Júnior na esteira.",
+      "context": "A fonte registra a dupla de vaqueiros, os cavalos, a representação Haras LJ (Bezerros — PE) e o prêmio individual informado na tabela. Não é uma afirmação de título geral do circuito.",
+      "photoUrl": null,
+      "photoNote": "A página da etapa contém imagens sem licença explícita de republicação; consulte a fonte original.",
+      "sourceUrl": "https://www.portalvaquejada.com.br/vaquejada/vaquejada-parque-maria-da-luz-etapa-portal-2026",
+      "sourceId": "portal-maria-luz-2026"
+    }
+  ]
+}
